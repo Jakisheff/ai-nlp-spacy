@@ -1,0 +1,6 @@
+pandas
+jupyter
+spacy>=3.5.0
+scikit-learn
+matplotlib
+seaborn
